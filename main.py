@@ -2,8 +2,8 @@ import pygame
 import time
 from random import randint 
 
-screen_size_x = 720 ### Can be changed but value must be an multiples of 40
-screen_size_y = 600 ### Can be changed but value must be an multiples of 40
+screen_size_x = 720 ### Can be changed but value must be a multiples of 40
+screen_size_y = 600 ### Can be changed but value must be a multiples of 40
 
 SIZE_OF_BLOCK = 40
 origin = SIZE_OF_BLOCK * 1
