@@ -38,7 +38,7 @@ class Snake:
         self.block = pygame.image.load("resources/block.jpg").convert()
         self.x = [origin] * length
         self.y = [origin] * length
-        self.direction = 'up'
+        self.direction = 'down'
         self.length = length
 
     def draw(self):
